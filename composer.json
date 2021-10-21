@@ -1,0 +1,20 @@
+{
+  "name": "poseidonphp/laravel-oidc-client",
+  "description": "Provides OIDC authentication to Laravel applications. Works with identity providers such as Ping Federate.",
+  "type": "library",
+  "require": {
+    "php": ">=7.3",
+    "laravel/framework": "^8.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.0",
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dan H",
+      "email": "poseidonphp@outlook.com"
+    }
+  ],
+  "minimum-stability": "stable"
+}
